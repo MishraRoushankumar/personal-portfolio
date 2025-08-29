@@ -13,8 +13,6 @@ About Me: An introduction to my background, skills, and passion for development.
 
 Contact Form: A functional contact form for easy communication.
 
-Resume/CV Link: A direct link to download my professional resume.
-
 # 🛠️ Technologies Used
 This portfolio is built using fundamental web technologies:
 
@@ -40,7 +38,7 @@ You can simply open the index.html file in your favorite web browser to view the
 
 # 📁 Project Structure
 The project follows a standard structure for a simple web application:
-```mermaid
+```bash
 personal-portfolio/
 ├── css/
 │   └── style.css         # Main stylesheet
@@ -62,4 +60,5 @@ Email: mishraroushan455.com
 LinkedIn: https://linkedin.com/in/roushankumarmishra/
 
 GitHub: https://github.com/MishraRoushankumar
+
 
