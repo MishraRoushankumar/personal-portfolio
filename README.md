@@ -40,7 +40,7 @@ You can simply open the index.html file in your favorite web browser to view the
 
 # 📁 Project Structure
 The project follows a standard structure for a simple web application:
-```bash
+```mermaid
 personal-portfolio/
 ├── css/
 │   └── style.css         # Main stylesheet
@@ -57,8 +57,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # 📫 Contact
 I'm always open to connecting and collaborating on exciting projects. Feel free to reach out!
 
-Email: your-email@example.com
+Email: mishraroushan455.com
 
-LinkedIn: https://linkedin.com/in/your-username
+LinkedIn: https://linkedin.com/in/roushankumarmishra/
 
 GitHub: https://github.com/MishraRoushankumar
+
